@@ -24,14 +24,6 @@
     "destination": "/aida-doormat-testing-2026/en/revenue-agency/services/charities-giving/giving-charity-information-donors.html"
   },
   {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3.html",
-    "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html",
-    "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html"
-  },
-  {
     "origin": "https://www.canada.ca/fr/services/impots.html",
     "destination": "/aida-doormat-testing-2026/fr/services/impots.html"
   },
@@ -40,7 +32,19 @@
     "destination": "/aida-doormat-testing-2026/fr/services/impots/impot-sur-le-revenu.html"
   },
   {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3.html",
+    "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html",
+    "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html"
+  },
+  {
     "origin": "https://www.canada.ca/fr/services/impots/regimes-depargne-et-de-pension.html",
     "destination": "/aida-doormat-testing-2026/fr/services/impots/regimes-depargne-et-de-pension.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs.html",
+    "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs.html"
   }
 ]

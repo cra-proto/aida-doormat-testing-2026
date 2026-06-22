@@ -16,16 +16,16 @@
     "destination": "/aida-doormat-testing-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
   },
   {
-    "origin": "https://www.canada.ca/en/services/taxes/savings-and-pension-plans.html",
-    "destination": "/aida-doormat-testing-2026/en/services/taxes/savings-and-pension-plans.html"
-  },
-  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors.html",
     "destination": "/aida-doormat-testing-2026/en/revenue-agency/services/charities-giving/giving-charity-information-donors.html"
   },
   {
     "origin": "https://www.canada.ca/en/services/taxes/child-and-family-benefits.html",
     "destination": "/aida-doormat-testing-2026/en/services/taxes/child-and-family-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html",
+    "destination": "/aida-doormat-testing-2026/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html"
   },
   {
     "origin": "https://www.canada.ca/fr/services/impots.html",
@@ -44,15 +44,15 @@
     "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html"
   },
   {
-    "origin": "https://www.canada.ca/fr/services/impots/regimes-depargne-et-de-pension.html",
-    "destination": "/aida-doormat-testing-2026/fr/services/impots/regimes-depargne-et-de-pension.html"
-  },
-  {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs.html",
     "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs.html"
   },
   {
     "origin": "https://www.canada.ca/fr/services/impots/prestations-pour-enfants-et-familles.html",
     "destination": "/aida-doormat-testing-2026/fr/services/impots/prestations-pour-enfants-et-familles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/compte-epargne-libre-impot.html",
+    "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/impot/particuliers/sujets/compte-epargne-libre-impot.html"
   }
 ]

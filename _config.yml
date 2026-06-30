@@ -25,7 +25,7 @@ creator:
 # Custom settings
 developerOptions: false
 devOptionsLocStore: "gitCRATemplateDevOptions"
-exitByURL: true
+exitByURL: false
 exitPage:
   en: "/aida-doormat-testing-2026/source/exit-intent-e.html"
   fr: "/aida-doormat-testing-2026/source/exit-intent-f.html"

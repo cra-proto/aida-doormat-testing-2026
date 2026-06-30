@@ -24,6 +24,10 @@
     "destination": "/aida-doormat-testing-2026/en/services/taxes/child-and-family-benefits.html"
   },
   {
+    "origin": "https://www.canada.ca/en/services/taxes/savings-and-pension-plans.html",
+    "destination": "/aida-doormat-testing-2026/en/services/taxes/savings-and-pension-plans.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html",
     "destination": "/aida-doormat-testing-2026/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html"
   },
@@ -50,6 +54,10 @@
   {
     "origin": "https://www.canada.ca/fr/services/impots/prestations-pour-enfants-et-familles.html",
     "destination": "/aida-doormat-testing-2026/fr/services/impots/prestations-pour-enfants-et-familles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/regimes-depargne-et-de-pension.html",
+    "destination": "/aida-doormat-testing-2026/fr/services/impots/regimes-depargne-et-de-pension.html"
   },
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/compte-epargne-libre-impot.html",

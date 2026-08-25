@@ -16,6 +16,10 @@
     "destination": "/aida-doormat-testing-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
   },
   {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return/how-file/get-gst-hst-access-code.html",
+    "destination": "/aida-doormat-testing-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/file-gst-hst-return/how-file/get-gst-hst-access-code.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/charities-giving/giving-charity-information-donors.html",
     "destination": "/aida-doormat-testing-2026/en/revenue-agency/services/charities-giving/giving-charity-information-donors.html"
   },
@@ -46,6 +50,10 @@
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html",
     "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises/produire-declaration-tps-tvh/comment-produire-declaration/obtenir-code-acces-tps-tvh.html",
+    "destination": "/aida-doormat-testing-2026/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises/produire-declaration-tps-tvh/comment-produire-declaration/obtenir-code-acces-tps-tvh.html"
   },
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/faire-bienfaisance-renseignements-a-intention-donateurs.html",
